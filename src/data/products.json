@@ -1,0 +1,200 @@
+{
+    "products": [
+        {
+            "id" : 0,
+            "name": "Rosa magenta",
+            "type" : "shampoo",
+            "poster": "img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 1,
+            "name": "shampoo caspa",
+            "type" : "shampoo",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 2,
+            "name": "shampoo cabello seco",
+            "type" : "acondicionador",
+            "poster": "img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 3,
+            "name": "shampoo caspa",
+            "type" : "acondicionador",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 4,
+            "name": "shampoo cabello seco",
+            "type" : "Jabon",
+            "poster": "img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 5,
+            "name": "shampoo caspa",
+            "type" : "Jabon",
+            "poster": "img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 6,
+            "name": "shampoo cabello seco",
+            "type" : "Jabon",
+            "poster": "img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 7,
+            "name": "shampoo caspa",
+            "type" : "Shampoo",
+            "poster": "img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 8,
+            "name": "shampoo caspa",
+            "type" : "Shampoo",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 9,
+            "name": "shampoo caspa",
+            "type" : "Shampoo",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 10,
+            "name": "shampoo caspa",
+            "type" : "Shampoo",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 11,
+            "name": "shampoo caspa",
+            "type" : "Shampoo",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 12,
+            "name": "shampoo caspa",
+            "type" : "Shampoo",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        },
+        {
+            "id" : 13,
+            "name": "shampoo caspa",
+            "type" : "Shampoo",
+            "poster":"img/product1.png",
+            "amount" : "200",
+            "categories" : [
+                "shampoo"
+            ],
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quod dolorem dolor debitis aliquam dolorum. Deleniti nihil natus debitis culpa ad atque, cupiditate eaque aliquam velit quas! At, consequuntur natus!",
+            "inCart": false,
+            "count": 0,
+            "total": 0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+.ProductTitle{
+    text-align: left;
+    font-size: medium;
+    margin: auto;
+    padding: 0.3em;
+}
+.ProductSubTitle{
+    text-align: left;
+    font-size: small;
+    margin: auto;
+    padding: 0.3em;
+}
+
+.Price{
+    padding-right: 0.5em;
+}
+
+.store{
+    background-color: #eee;
+    width: 100%
+}
+
+.store-title{
+    margin-top: 5rem
+}
+
+.title-container{
+    display: flex;
+    justify-content: center;
+    background: url(./../../media/store-header.jpg)
+}
+
+.Card{
+    border-radius: 25px;
+    box-shadow: -5px 4px 5px 0px rgba(0,0,0,0.3);
+}
+
+.Card:hover{
+   box-shadow: -5px 4px 5px 0px rgba(0,0,0,75);
+   cursor: zoom-in;
+   transition: all 0.5s
+}
+
+.Card-image{
+    border-radius: 25px 25px 0 0 ;
+}
